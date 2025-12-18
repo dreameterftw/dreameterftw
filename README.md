@@ -1,16 +1,25 @@
-## Hi there 👋
+✧･ﾟ: ✧･ﾟ:  Aryan Rane  :･ﾟ✧:･ﾟ✧
+Computer Science | Data Science
+Coding with calm & creativity 🌸
 
-<!--
-**dreameterftw/dreameterftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Mukesh Patel School of Engineering, Mumbai, India 🇮🇳  
 
-Here are some ideas to get you started:
+💻 I’m a first-year engineering student who enjoys *coding*, learning programming
+fundamentals, and exploring how data and logic come together to solve problems.
+I also have a growing interest in design and clean, user-focused interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎌 Anime enthusiast with a calm, slice-of-life mindset — inspired by creativity,
+consistency, and steady growth 🌸  
+⚽ Football fan | Chelsea FC 💙  
+
+🌱 Currently exploring:
+- Coding & programming fundamentals  
+- Problem solving  
+- Data Science foundations  
+- UI/UX & creative design  
+
+✨ Learning step by step, building with intention, and enjoying the journey.
+
+---
+
+⭐ “Little by little, we move forward.”
