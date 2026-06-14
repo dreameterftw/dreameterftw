@@ -1,25 +1,74 @@
-✧･ﾟ: ✧･ﾟ:  Aryan Rane  :･ﾟ✧:･ﾟ✧
-Computer Science | Data Science
-Coding with calm & creativity 🌸
+# Hi, I'm Aryan Rane 👋
 
-🏫 Mukesh Patel School of Engineering, Mumbai, India 🇮🇳  
+### Full-Stack Developer | AI Enthusiast | Computer Science Student
 
-💻 I’m a secong-year engineering student who enjoys *coding*, learning programming
-fundamentals, and exploring how data and logic come together to solve problems.
-I also have a growing interest in design and clean, user-focused interfaces.
+I'm a Computer Science student from Mumbai who enjoys building products that combine technology, design, and problem-solving.
 
-🎌 Anime enthusiast with a calm, slice-of-life mindset — inspired by creativity,
-consistency, and steady growth 🌸  
-⚽ Football fan | Chelsea FC 💙  
-
-🌱 Currently exploring:
-- Coding & programming fundamentals  
-- Problem solving  
-- Data Science foundations  
-- UI/UX & creative design  
-
-✨ Learning step by step, building with intention, and enjoying the journey.
+My interests lie in full-stack development, AI-powered applications, and creating software that solves real-world problems. I enjoy turning ideas into polished products, from designing interfaces to building backend systems and deploying complete applications.
 
 ---
 
-⭐ “Little by little, we move forward.”
+## 🚀 What I'm Working On
+
+* Full-stack web applications
+* AI-powered products and tools
+* SaaS development
+* UI/UX design
+* Data-driven applications
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* React
+* Vite
+* JavaScript
+* Tailwind CSS
+
+**Backend & Cloud**
+
+* Firebase
+* Firestore
+* Cloudflare Workers
+* REST APIs
+
+**AI & Tools**
+
+* Groq API
+* Git & GitHub
+* Figma
+* Postman
+
+---
+
+## 🌱 Currently Learning
+
+* System Design
+* Scalable SaaS Architecture
+* AI Engineering
+* Data Science
+
+---
+
+## 🎯 Beyond Coding
+
+⚽ Football enthusiast and proud supporter of Chelsea F.C.
+
+🎌 Anime fan who appreciates great storytelling, creativity, and continuous growth
+
+☕ Enjoy building things, participating in hackathons, and learning something new every day
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn - https://www.linkedin.com/in/aryan-rane-order66/
+* Mail - ranearyan927@gmail.com
+* Portfolio (coming soon)
+* Instagram - _aryanrane
+
+---
+
+> *"Little by little, we move forward."*
