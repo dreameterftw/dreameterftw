@@ -4,7 +4,7 @@ Coding with calm & creativity 🌸
 
 🏫 Mukesh Patel School of Engineering, Mumbai, India 🇮🇳  
 
-💻 I’m a first-year engineering student who enjoys *coding*, learning programming
+💻 I’m a secong-year engineering student who enjoys *coding*, learning programming
 fundamentals, and exploring how data and logic come together to solve problems.
 I also have a growing interest in design and clean, user-focused interfaces.
 
