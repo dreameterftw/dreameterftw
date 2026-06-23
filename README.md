@@ -66,7 +66,7 @@ My interests lie in full-stack development, AI-powered applications, and creatin
 
 * LinkedIn - https://www.linkedin.com/in/aryan-rane-order66/
 * Mail - ranearyan927@gmail.com
-* Portfolio (coming soon)
+* Portfolio - 
 * Instagram - https://www.instagram.com/_aryanrane/
 
 ---
